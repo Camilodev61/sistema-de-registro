@@ -2,3 +2,6 @@
 
 
 -Estado del proyecto: en construccion
+
+Para ejecutar el sietema selecionamos el 
+```npm```
