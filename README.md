@@ -5,3 +5,5 @@
 
 Para ejecutar el sietema selecionamos el 
 ```npm```
+
+Sistema de registro 2
